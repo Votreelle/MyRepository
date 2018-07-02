@@ -4,3 +4,5 @@ Hello Maven
 Hello GitHub
 
 Hello Branch
+
+Test Version Conflict Remote
