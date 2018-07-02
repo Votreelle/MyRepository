@@ -1,1 +1,2 @@
-Hello Git
+Hello World
+Hello Maven
